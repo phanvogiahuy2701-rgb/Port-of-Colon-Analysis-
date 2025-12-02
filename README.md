@@ -22,6 +22,15 @@ Evaluate whether the Port of Colón is operationally ready for future growth ami
 •⁠  ⁠Evaluated environmental, economic, and social sustainability factors.  
 •⁠  ⁠Compared Colón with Cartagena across TEU volume, cost, and technology.
 
+## My Contribution
+
+- Collected and structured data on TEU throughput, vessel capacity, berth depth, and yard layout from public port statistics and industry reports.  
+- Built the main Excel tables and charts used in the analysis (throughput trends, vessel size vs. berth depth, Cartagena vs. Colón comparison).  
+- Helped shape the comparison framework between Colón and Cartagena by focusing on connectivity, cost, and technology.  
+- Drafted parts of the written report, especially the sections on connectivity and digital systems (PORTCEL, CICO) and how they affect clearance time and efficiency.  
+- Designed and updated several weekly PowerPoint slides so that key findings and visuals were clear and easy to present.  
+- Presented parts of the analysis in class, explaining our approach and answering follow-up questions from the lecturer and classmates.
+
 <h2><strong>Skills</strong></h2>
 
 •⁠  ⁠Port logistics analysis  
